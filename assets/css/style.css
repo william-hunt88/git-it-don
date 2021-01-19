@@ -102,6 +102,10 @@ p {
   max-width: 75%;
 }
 
+#repos-container {
+  width: 100%;
+}
+
 .app-title {
   font-size: 3rem;
   background-color: var(--primary);
